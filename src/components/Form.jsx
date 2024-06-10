@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Form = () => {
+  
   return (
     <div className='bg-gray-200 h-[25rem] w-[18rem] divide-y'>
         <div className='text-center pt-3 p-2'>Let us know about the <b>Issue</b> you are facing right now!</div>
